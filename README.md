@@ -41,4 +41,7 @@
 
 ## 🎮 Gaming
 
-<img src="steam_id.svg" alt="Steam ID: VSKI_5" width="400">
+<div style="display: flex; align-items: center;">
+  <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam ID" style="height: 40px; margin-right: 10px;">
+  <span style="color: white; font-size: 20px;">ID : VSKI_5</span>
+</div>
