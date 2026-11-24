@@ -1,7 +1,9 @@
 <h1>
   <picture>
-    <source media="(max-width: 640px)" srcset="./assets/readme/field-notes-compact.svg">
-    <img src="./assets/readme/field-notes.svg" width="100%" alt="VSKI_5 — Personal field notes. I build things to own my time.">
+    <source media="(prefers-reduced-motion: reduce) and (max-width: 640px)" srcset="./assets/readme/field-notes-compact.svg">
+    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/readme/field-notes.svg">
+    <source media="(max-width: 640px)" srcset="./assets/readme/field-notes-compact.gif">
+    <img src="./assets/readme/field-notes.gif" width="100%" alt="VSKI_5 — Personal field notes, with the Meow Party cat. I build things to own my time.">
   </picture>
 </h1>
 
@@ -23,7 +25,7 @@ I'm an independent builder. I make digital products and creative tools, and I le
 
 ### Infrastructure & delivery
 
-![Docker](./assets/readme/badges/docker.svg) ![Kubernetes](./assets/readme/badges/kubernetes.svg) ![Nginx](./assets/readme/badges/nginx.svg) ![Cloudflare](./assets/readme/badges/cloudflare.svg) ![GitHub Actions](./assets/readme/badges/github-actions.svg)
+![Docker](./assets/readme/badges/docker.svg) ![Kubernetes](./assets/readme/badges/kubernetes.svg) ![Cloudflare](./assets/readme/badges/cloudflare.svg) ![GitHub Actions](./assets/readme/badges/github-actions.svg)
 
 ### AI & data science
 
@@ -47,7 +49,7 @@ I'm an independent builder. I make digital products and creative tools, and I le
 - **Languages** · Python, Go, JavaScript, TypeScript, Bash
 - **Front end** · HTML, CSS, React, Astro
 - **Back end & databases** · Node.js, PocketBase, PostgreSQL, MySQL, Redis, SQLite
-- **Infrastructure & delivery** · Docker, Kubernetes, Nginx, Cloudflare, GitHub Actions
+- **Infrastructure & delivery** · Docker, Kubernetes, Cloudflare, GitHub Actions
 - **AI & data science** · PyTorch, TensorFlow, scikit-learn, NumPy, pandas, Jupyter Notebook
 - **Development & automation** · Git, GitHub, Visual Studio Code, Vim, npm, PowerShell, FFmpeg
 - **AI-assisted development** · OpenAI Codex, DeepSeek, AI agents, Agentic workflows
@@ -61,6 +63,10 @@ I read economics to understand incentives, philosophy to question my assumptions
 
 ### Gaming
 
-<img src="./assets/readme/badges/steam.svg" alt="Steam ID: VSKI_5" align="middle"> <img src="./fast_meow_party.gif" width="40" height="40" align="middle" alt="The original dancing Meow Party cat">
+<img src="./assets/readme/badges/steam.svg" alt="Steam ID: VSKI_5">
+
+```
+VSKI_5
+```
 
 *Technology is a means. Freedom is the end.*
