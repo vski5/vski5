@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="384" viewBox="0 0 1200 384" role="img" aria-labelledby="title desc">
+  <title id="title">VSKI_5 — Personal field notes</title>
+  <desc id="desc">I build things to own my time. A two-ink portrait of the Meow Party cat sits beside the name like an illustration on a book jacket.</desc>
+  <defs>
+    <pattern id="screen" width="7" height="7" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.65" fill="#222e53"/>
+      <circle cx="5.5" cy="5.5" r="1.25" fill="#222e53"/>
+    </pattern>
+    <clipPath id="portrait-window"><rect x="797" width="403" height="384"/></clipPath>
+    <path id="cat" d="M-147 161C-160 126-151 79-137 43Q-127 15-115-4L-108-99Q-107-112-97-110L-38-90Q2-98 43-91L112-108Q123-111 125-98L136-26Q151 14 150 74L147 149Q79 181-12 178Q-95 180-147 161Z"/>
+  </defs>
+  <rect width="1200" height="384" fill="#25389a"/>
+  <g id="masthead">
+    <path d="M56 52h42" stroke="#ffd757" stroke-width="9"/>
+    <text x="120" y="60" fill="#fff4dc" font-family="ui-monospace, Menlo, Consolas, monospace" font-weight="bold" letter-spacing="2.8" font-size="24">PERSONAL FIELD NOTES</text>
+    <text x="46" y="248" fill="#fff4dc" font-family="Georgia, 'DejaVu Serif', serif" font-weight="bold" font-size="156" letter-spacing="-9">VSKI_5</text>
+    <path d="M56 285H741" stroke="#fff4dc" stroke-opacity=".6" stroke-width="1.5"/>
+    <text x="56" y="341" fill="#fff4dc" font-size="43" font-family="Georgia, 'DejaVu Serif', serif" font-style="italic">I build things to own my time.</text>
+  </g>
+  <g id="meow-party-print" clip-path="url(#portrait-window)">
+    <rect x="797" width="403" height="384" fill="#ffd757"/>
+    <!-- Offset impressions of the silhouette give the portrait its printed edge. -->
+    <g transform="translate(1003 177) rotate(-9)">
+      <use href="#cat" transform="translate(2 13)" fill="#222e53"/>
+      <use href="#cat" fill="#f38d85" stroke="#222e53" stroke-width="5" stroke-linejoin="round"/>
+      <path d="M-140 132Q-88 169 8 155Q110 143 144 91L143 145Q75 174-12 174Q-100 176-140 158Z" fill="url(#screen)"/>
+      <path d="M-103-100l-4 52 37-39ZM112-99l-36 12 45 27Z" fill="url(#screen)"/>
+      <g fill="#222e53">
+        <ellipse cx="-32" cy="0" rx="14" ry="19" transform="rotate(-7 -32 0)"/>
+        <ellipse cx="62" cy="-2" rx="14" ry="19" transform="rotate(-7 62 -2)"/>
+      </g>
+      <g fill="none" stroke="#222e53" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M-19 34q9 16 16 20 8-5 17-22 9 14 18 17 7-7 12-23" stroke-width="7"/>
+        <path d="M-51 17l-87-27m86 40-96-8M87 14l69-32M89 26l75-12" stroke-width="4"/>
+      </g>
+    </g>
+  </g>
+</svg>

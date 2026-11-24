@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40" role="img" aria-labelledby="title desc">
+  <title id="title">Systems and tooling</title>
+  <desc id="desc">Three stacked layers printed on a coral index tab.</desc>
+  <rect width="40" height="40" rx="3" fill="#f38d85"/>
+  <g stroke="#222e53" stroke-width="2.7" stroke-linejoin="round">
+    <path d="m5 14 15-8 15 8-15 8Z" fill="#222e53"/>
+    <path d="m5 20 15 8 15-8M5 26l15 8 15-8" fill="none"/>
+  </g>
+</svg>

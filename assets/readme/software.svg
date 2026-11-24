@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40" role="img" aria-labelledby="title desc">
+  <title id="title">Software</title>
+  <desc id="desc">Two angle brackets printed on a yellow index tab.</desc>
+  <rect width="40" height="40" rx="3" fill="#ffd757"/>
+  <path d="m15 11-10 9 10 9m10-18 10 9-10 9" fill="none" stroke="#222e53" stroke-width="3.5" stroke-linejoin="round"/>
+</svg>

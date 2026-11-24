@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40" role="img" aria-labelledby="title desc">
+  <title id="title">AI and data</title>
+  <desc id="desc">Connected observations printed on a blue index tab.</desc>
+  <rect width="40" height="40" rx="3" fill="#c5cff5"/>
+  <path d="m8 28 8-11 8 5 8-13" fill="none" stroke="#222e53" stroke-width="2.7"/>
+  <g fill="#222e53">
+    <circle cx="8" cy="28" r="3.5"/><circle cx="16" cy="17" r="3.5"/>
+    <circle cx="24" cy="22" r="3.5"/><circle cx="32" cy="9" r="3.5"/>
+  </g>
+</svg>
