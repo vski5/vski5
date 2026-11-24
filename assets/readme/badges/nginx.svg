@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="108" height="40" viewBox="0 0 108 40" role="img" aria-labelledby="title">
+  <title id="title">Nginx</title>
+  <!-- Icon: Simple Icons 11.15.0, CC0 collection. -->
+  <rect x="1" y="1" width="106" height="35" rx="6" fill="#e8f6ed" stroke="#7ac898"/>
+  <path d="M7 1.5H36V35.5H7a5.5 5.5 0 0 1-5.5-5.5V7A5.5 5.5 0 0 1 7 1.5Z" fill="#009639"/>
+  <g transform="translate(8 8) scale(.875)" fill="#ffffff" color="#ffffff" fill-rule="evenodd"><path d="M12 0L1.605 6v12L12 24l10.395-6V6L12 0zm6 16.59c0 .705-.646 1.29-1.529 1.29-.631 0-1.351-.255-1.801-.81l-6-7.141v6.66c0 .721-.57 1.29-1.274 1.29H7.32c-.721 0-1.29-.6-1.29-1.29V7.41c0-.705.63-1.29 1.5-1.29.646 0 1.38.255 1.83.81l5.97 7.141V7.41c0-.721.6-1.29 1.29-1.29h.075c.72 0 1.29.6 1.29 1.29v9.18H18z"/></g>
+  <text x="45" y="24" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#18223a">Nginx</text>
+</svg>

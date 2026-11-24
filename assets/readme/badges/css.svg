@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="91" height="40" viewBox="0 0 91 40" role="img" aria-labelledby="title">
+  <title id="title">CSS</title>
+  <!-- Icon: Simple Icons 11.15.0, CC0 collection. -->
+  <rect x="1" y="1" width="89" height="35" rx="6" fill="#eaf2f8" stroke="#85b6d9"/>
+  <path d="M7 1.5H36V35.5H7a5.5 5.5 0 0 1-5.5-5.5V7A5.5 5.5 0 0 1 7 1.5Z" fill="#1572B6"/>
+  <g transform="translate(8 8) scale(.875)" fill="#ffffff" color="#ffffff" fill-rule="evenodd"><path d="M1.5 0h21l-1.91 21.563L11.977 24l-8.565-2.438L1.5 0zm17.09 4.413L5.41 4.41l.213 2.622 10.125.002-.255 2.716h-6.64l.24 2.573h6.182l-.366 3.523-2.91.804-2.956-.81-.188-2.11h-2.61l.29 3.855L12 19.288l5.373-1.53L18.59 4.414z"/></g>
+  <text x="45" y="24" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#18223a">CSS</text>
+</svg>

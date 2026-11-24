@@ -9,26 +9,51 @@ I'm an independent builder. I make digital products and creative tools, and I le
 
 ## Technical index
 
-### <img src="./assets/readme/software.svg" width="32" height="32" align="absmiddle" alt="Angle brackets"> Software
+### Languages
 
-**Languages** · Python, Go, JavaScript, TypeScript, Bash\
-**Front end** · HTML, CSS, React, Astro\
-**Back end** · Node.js, PocketBase\
-**Databases** · PostgreSQL, MySQL, Redis, SQLite
+![Python](./assets/readme/badges/python.svg) ![Go](./assets/readme/badges/go.svg) ![JavaScript](./assets/readme/badges/javascript.svg) ![TypeScript](./assets/readme/badges/typescript.svg) ![Bash](./assets/readme/badges/bash.svg)
 
-### <img src="./assets/readme/systems.svg" width="32" height="32" align="absmiddle" alt="Stacked layers"> Systems & tooling
+### Front end
 
-**Infrastructure** · Docker, Kubernetes, Nginx, Cloudflare\
-**Version control & CI** · Git, GitHub, GitHub Actions\
-**Editors & utilities** · Visual Studio Code, Vim, npm, PowerShell, FFmpeg\
-**Operating systems** · Linux, Ubuntu, Windows, ChromeOS\
-**Browser** · Microsoft Edge
+![HTML](./assets/readme/badges/html.svg) ![CSS](./assets/readme/badges/css.svg) ![React](./assets/readme/badges/react.svg) ![Astro](./assets/readme/badges/astro.svg)
 
-### <img src="./assets/readme/data.svg" width="32" height="32" align="absmiddle" alt="Connected nodes"> AI & data
+### Back end & databases
 
-**Analysis & notebooks** · NumPy, pandas, Jupyter Notebook\
-**Machine learning** · PyTorch, TensorFlow, scikit-learn\
-**AI-assisted development** · OpenAI Codex, DeepSeek, AI agents and agentic workflows
+![Node.js](./assets/readme/badges/node-js.svg) ![PocketBase](./assets/readme/badges/pocketbase.svg) ![PostgreSQL](./assets/readme/badges/postgresql.svg) ![MySQL](./assets/readme/badges/mysql.svg) ![Redis](./assets/readme/badges/redis.svg) ![SQLite](./assets/readme/badges/sqlite.svg)
+
+### Infrastructure & delivery
+
+![Docker](./assets/readme/badges/docker.svg) ![Kubernetes](./assets/readme/badges/kubernetes.svg) ![Nginx](./assets/readme/badges/nginx.svg) ![Cloudflare](./assets/readme/badges/cloudflare.svg) ![GitHub Actions](./assets/readme/badges/github-actions.svg)
+
+### AI & data science
+
+![PyTorch](./assets/readme/badges/pytorch.svg) ![TensorFlow](./assets/readme/badges/tensorflow.svg) ![scikit-learn](./assets/readme/badges/scikit-learn.svg) ![NumPy](./assets/readme/badges/numpy.svg) ![pandas](./assets/readme/badges/pandas.svg) ![Jupyter Notebook](./assets/readme/badges/jupyter-notebook.svg)
+
+### Development & automation
+
+![Git](./assets/readme/badges/git.svg) ![GitHub](./assets/readme/badges/github.svg) ![Visual Studio Code](./assets/readme/badges/visual-studio-code.svg) ![Vim](./assets/readme/badges/vim.svg) ![npm](./assets/readme/badges/npm.svg) ![PowerShell](./assets/readme/badges/powershell.svg) ![FFmpeg](./assets/readme/badges/ffmpeg.svg)
+
+### AI-assisted development
+
+![OpenAI Codex](./assets/readme/badges/openai-codex.svg) ![DeepSeek](./assets/readme/badges/deepseek.svg) ![AI agents](./assets/readme/badges/ai-agents.svg) ![Agentic workflows](./assets/readme/badges/agentic-workflows.svg)
+
+### Systems & browsers
+
+![Windows](./assets/readme/badges/windows.svg) ![Linux](./assets/readme/badges/linux.svg) ![Ubuntu](./assets/readme/badges/ubuntu.svg) ![ChromeOS](./assets/readme/badges/chromeos.svg) ![Microsoft Edge](./assets/readme/badges/microsoft-edge.svg)
+
+<details>
+<summary>Technical index in plain text</summary>
+
+- **Languages** · Python, Go, JavaScript, TypeScript, Bash
+- **Front end** · HTML, CSS, React, Astro
+- **Back end & databases** · Node.js, PocketBase, PostgreSQL, MySQL, Redis, SQLite
+- **Infrastructure & delivery** · Docker, Kubernetes, Nginx, Cloudflare, GitHub Actions
+- **AI & data science** · PyTorch, TensorFlow, scikit-learn, NumPy, pandas, Jupyter Notebook
+- **Development & automation** · Git, GitHub, Visual Studio Code, Vim, npm, PowerShell, FFmpeg
+- **AI-assisted development** · OpenAI Codex, DeepSeek, AI agents, Agentic workflows
+- **Systems & browsers** · Windows, Linux, Ubuntu, ChromeOS, Microsoft Edge
+
+</details>
 
 ## Beyond code
 
@@ -36,6 +61,6 @@ I read economics to understand incentives, philosophy to question my assumptions
 
 ### Gaming
 
-<img src="./fast_meow_party.gif" width="44" height="44" align="absmiddle" alt="The original dancing Meow Party cat"> &nbsp; Steam ID &nbsp; **`VSKI_5`**
+<img src="./assets/readme/badges/steam.svg" alt="Steam ID: VSKI_5" align="middle"> <img src="./fast_meow_party.gif" width="40" height="40" align="middle" alt="The original dancing Meow Party cat">
 
 *Technology is a means. Freedom is the end.*
